@@ -4,7 +4,7 @@
 
 If it is impossible to copy the authentication env variables from **AWS modal** this script will be useful.
 
-1. Add it to a bookmark.
+1. Add index.js to a bookmark.
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/19187357/164652255-75b251fc-f5b1-4363-8715-b0ebd8ae4bf8.png">
 
 
